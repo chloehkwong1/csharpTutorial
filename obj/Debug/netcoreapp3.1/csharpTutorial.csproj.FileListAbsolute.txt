@@ -1,0 +1,12 @@
+/Users/chloe/MadeTechAcademy/csharpTutorial/bin/Debug/netcoreapp3.1/csharpTutorial.deps.json
+/Users/chloe/MadeTechAcademy/csharpTutorial/bin/Debug/netcoreapp3.1/csharpTutorial.runtimeconfig.json
+/Users/chloe/MadeTechAcademy/csharpTutorial/bin/Debug/netcoreapp3.1/csharpTutorial.runtimeconfig.dev.json
+/Users/chloe/MadeTechAcademy/csharpTutorial/bin/Debug/netcoreapp3.1/csharpTutorial.dll
+/Users/chloe/MadeTechAcademy/csharpTutorial/bin/Debug/netcoreapp3.1/csharpTutorial.pdb
+/Users/chloe/MadeTechAcademy/csharpTutorial/obj/Debug/netcoreapp3.1/csharpTutorial.csprojAssemblyReference.cache
+/Users/chloe/MadeTechAcademy/csharpTutorial/obj/Debug/netcoreapp3.1/csharpTutorial.AssemblyInfoInputs.cache
+/Users/chloe/MadeTechAcademy/csharpTutorial/obj/Debug/netcoreapp3.1/csharpTutorial.AssemblyInfo.cs
+/Users/chloe/MadeTechAcademy/csharpTutorial/obj/Debug/netcoreapp3.1/csharpTutorial.csproj.CoreCompileInputs.cache
+/Users/chloe/MadeTechAcademy/csharpTutorial/obj/Debug/netcoreapp3.1/csharpTutorial.dll
+/Users/chloe/MadeTechAcademy/csharpTutorial/obj/Debug/netcoreapp3.1/csharpTutorial.pdb
+/Users/chloe/MadeTechAcademy/csharpTutorial/obj/Debug/netcoreapp3.1/csharpTutorial.genruntimeconfig.cache
